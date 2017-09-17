@@ -7,3 +7,6 @@ Technologies:
   <li>HTML5</li>
   <li>CSS3</li>
 </ul>
+
+<p>Preview</p>
+<img src="./photo-gallery-preview.png">
