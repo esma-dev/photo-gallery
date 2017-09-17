@@ -1,0 +1,28 @@
+.header {
+	font-family: Raleway;
+	font-weight: 800;
+	text-transform: uppercase;
+	margin-left: 1.66%;
+	padding-bottom: 1%;
+	border-bottom: 2px solid #d3d3d3;
+	width: 30%;
+}
+
+a:visited {
+	color: #000000;
+}
+
+a:hover {
+	color: red;
+}
+
+img	{
+	width: 30%;
+	height: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+img:hover {
+	opacity: 0.5;
+}
